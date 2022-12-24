@@ -9,9 +9,9 @@
 - 😄 Languages : Thai (NATIVE) , English (INTERMEDIATE)
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamjazrk&show_icons=true&theme=react&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamjazrk&layout=compact&show_icons=true&theme=react&exclude_repo=github-readme-stats,anuraghazra.github.io)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamjazrk&show_icons=true&theme=react)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamjazrk&show_icons=true&theme=gotham)
+
 <!---
 non-nattawut/non-nattawut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
