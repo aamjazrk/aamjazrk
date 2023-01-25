@@ -6,6 +6,7 @@
 - 👀 I’m interested in Machine Learning
 - 📫 How to reach me: 
 - Gmail: kotpanya.sirinya@gmail.com
+- LinkIn: https://www.linkedin.com/in/sirinya-kotpanya-b9a573212/
 - 😄 Languages : Thai (NATIVE) , English (INTERMEDIATE)
 
 ## Stats
