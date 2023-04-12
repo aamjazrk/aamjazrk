@@ -12,10 +12,10 @@
 <h4 lign="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/sirinya-kotpanya-b9a573212/" target="blank" style="none" >
-  <img align="center" src="https://img.shields.io/badge/-abhishekpatelmc-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sirinya-kotpanya-b9a573212/" alt="Sirinya kotpanya" /></a>
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sirinya-kotpanya-b9a573212/" alt="Sirinya kotpanya" /></a>
 <br>
 <a href="kotpanya.sirinya@gmail.com" target="blank" style="none" >
-  <img align="center" src="https://img.shields.io/badge/-mcabhishekpatel2017-c14438?style=flat&logo=Gmail&logoColor=white&link=kotpanya.sirinya@gmail.com" alt="Sirinya Kotpanya" /></a>
+  <img align="center" src="https://img.shields.io/badge/-Gmail.  -c14438?style=flat&logo=Gmail&logoColor=white&link=kotpanya.sirinya@gmail.com" alt="Sirinya Kotpanya" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamjazrk&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="aamjazrk" /></p>
