@@ -3,7 +3,7 @@
 ## Greeting
 - 🔭 Hello, I'm Sirinya Kotpanya
 - 🎓 I’m currently studying B.Eng in Computer Engineering at Suranaree University of Thailand 🇹🇭 
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning and Web app!
 - 📫 How to reach me: 
 - Gmail: kotpanya.sirinya@gmail.com
 - LinkIn: https://www.linkedin.com/in/sirinya-kotpanya-b9a573212/
@@ -13,7 +13,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamjazrk&layout=compact&show_icons=true&theme=react&exclude_repo=github-readme-stats,anuraghazra.github.io)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamjazrk&show_icons=true&theme=react)
 
-<!---
-non-nattawut/non-nattawut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
