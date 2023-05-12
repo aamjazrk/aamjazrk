@@ -3,7 +3,7 @@
 ## Greeting
 - 🔭 Hello, I'm Sirinya Kotpanya
 - 🎓 I’m currently studying B.Eng in Computer Engineering at Suranaree University of Thailand 🇹🇭 
-- 👀 I’m interested in Machine Learning and Web app!
+- 👀 I’m interested in Machine Learning and Software Engineering!
 - 📫 How to reach me: 
 - Gmail: kotpanya.sirinya@gmail.com
 - LinkIn: [@Sirinya Kotpanya](https://www.linkedin.com/in/sirinya-kotpanya-b9a573212/)
